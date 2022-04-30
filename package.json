@@ -1,0 +1,17 @@
+{
+    "name": "jssem",
+    "version": "1.0.0",
+    "description": "JavaScript 세미나",
+    "main": "chap1_variables.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "react": "^18.1.0"
+    },
+    "devDependencies": {
+        "@types/react": "^18.0.8"
+    }
+}
